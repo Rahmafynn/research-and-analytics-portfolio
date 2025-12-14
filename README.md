@@ -30,7 +30,7 @@ I’m passionate about applying statistical modeling, data analysis, and researc
 ## 🧠 Skills
 - **Programming:** R, Python, SPSS  
 - **Analytics:** Data cleaning, regression, visualization, predictive modeling  
-- **Tools:** Microsoft 365, GitHub  
+- **Tools:** Microsoft 365
 - **Research:** Longitudinal analysis, survey design, statistical modeling
 
 ---
